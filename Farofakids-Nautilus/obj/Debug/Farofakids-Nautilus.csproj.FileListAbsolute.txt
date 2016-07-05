@@ -1,0 +1,15 @@
+C:\Users\bruno\Documents\GitHub\Buddy-dev\Farofakids-Nautilus\bin\Debug\Farofakids-Nautilus.exe.config
+C:\Users\bruno\Documents\GitHub\Buddy-dev\Farofakids-Nautilus\bin\Debug\Farofakids-Nautilus.exe
+C:\Users\bruno\Documents\GitHub\Buddy-dev\Farofakids-Nautilus\bin\Debug\Farofakids-Nautilus.pdb
+C:\Users\bruno\Documents\GitHub\Buddy-dev\Farofakids-Nautilus\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\bruno\Documents\GitHub\Buddy-dev\Farofakids-Nautilus\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bruno\Documents\GitHub\Buddy-dev\Farofakids-Nautilus\bin\Debug\EloBuddy.Sandbox.dll
+C:\Users\bruno\Documents\GitHub\Buddy-dev\Farofakids-Nautilus\obj\Debug\Farofakids-Nautilus.csprojResolveAssemblyReference.cache
+C:\Users\bruno\Documents\GitHub\Buddy-dev\Farofakids-Nautilus\obj\Debug\Farofakids-Nautilus.exe
+C:\Users\bruno\Documents\GitHub\Buddy-dev\Farofakids-Nautilus\obj\Debug\Farofakids-Nautilus.pdb
+C:\Users\bruno\Documents\GitHub\Buddy-dev\Farofakids-Nautilus\bin\Debug\EloBuddy.dll
+C:\Users\bruno\Documents\GitHub\Buddy-dev\Farofakids-Nautilus\bin\Debug\EloBuddy.SDK.dll
+C:\Users\bruno\Documents\GitHub\Buddy-dev\Farofakids-Nautilus\bin\Debug\SharpDX.dll
+C:\Users\Bruno_PC\Documents\GitHub\Buddy-dev\Farofakids-Nautilus\bin\Debug\Farofakids-Nautilus.exe.config
+C:\Users\Bruno_PC\Documents\GitHub\Buddy-dev\Farofakids-Nautilus\obj\Debug\Farofakids-Nautilus.exe
+C:\Users\Bruno_PC\Documents\GitHub\Buddy-dev\Farofakids-Nautilus\obj\Debug\Farofakids-Nautilus.pdb

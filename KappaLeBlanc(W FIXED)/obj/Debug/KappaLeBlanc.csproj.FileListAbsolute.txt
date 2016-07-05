@@ -1,0 +1,24 @@
+C:\Users\Bruno\Desktop\KappaLeBlanc\bin\Debug\KappaLeBlanc.exe.config
+C:\Users\Bruno\Desktop\KappaLeBlanc\bin\Debug\KappaLeBlanc.exe
+C:\Users\Bruno\Desktop\KappaLeBlanc\bin\Debug\KappaLeBlanc.pdb
+C:\Users\Bruno\Desktop\KappaLeBlanc\bin\Debug\EloBuddy.dll
+C:\Users\Bruno\Desktop\KappaLeBlanc\bin\Debug\EloBuddy.Sandbox.dll
+C:\Users\Bruno\Desktop\KappaLeBlanc\bin\Debug\EloBuddy.SDK.dll
+C:\Users\Bruno\Desktop\KappaLeBlanc\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Bruno\Desktop\KappaLeBlanc\bin\Debug\SharpDX.dll
+C:\Users\Bruno\Desktop\KappaLeBlanc\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bruno\Desktop\KappaLeBlanc\obj\Debug\KappaLeBlanc.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Desktop\KappaLeBlanc\obj\Debug\KappaLeBlanc.exe
+C:\Users\Bruno\Desktop\KappaLeBlanc\obj\Debug\KappaLeBlanc.pdb
+C:\Users\Bruno\Documents\GitHub\Buddy-dev\KappaLeBlanc(W FIXED)\bin\Debug\KappaLeBlanc.exe.config
+C:\Users\Bruno\Documents\GitHub\Buddy-dev\KappaLeBlanc(W FIXED)\obj\Debug\KappaLeBlanc.exe
+C:\Users\Bruno\Documents\GitHub\Buddy-dev\KappaLeBlanc(W FIXED)\obj\Debug\KappaLeBlanc.pdb
+C:\Users\Bruno\Documents\GitHub\Buddy-dev\KappaLeBlanc(W FIXED)\bin\Debug\KappaLeBlanc.exe
+C:\Users\Bruno\Documents\GitHub\Buddy-dev\KappaLeBlanc(W FIXED)\bin\Debug\KappaLeBlanc.pdb
+C:\Users\Bruno\Documents\GitHub\Buddy-dev\KappaLeBlanc(W FIXED)\bin\Debug\EloBuddy.dll
+C:\Users\Bruno\Documents\GitHub\Buddy-dev\KappaLeBlanc(W FIXED)\bin\Debug\EloBuddy.Sandbox.dll
+C:\Users\Bruno\Documents\GitHub\Buddy-dev\KappaLeBlanc(W FIXED)\bin\Debug\EloBuddy.SDK.dll
+C:\Users\Bruno\Documents\GitHub\Buddy-dev\KappaLeBlanc(W FIXED)\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Bruno\Documents\GitHub\Buddy-dev\KappaLeBlanc(W FIXED)\bin\Debug\SharpDX.dll
+C:\Users\Bruno\Documents\GitHub\Buddy-dev\KappaLeBlanc(W FIXED)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bruno\Documents\GitHub\Buddy-dev\KappaLeBlanc(W FIXED)\obj\Debug\KappaLeBlanc.csprojResolveAssemblyReference.cache
