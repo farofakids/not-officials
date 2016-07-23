@@ -20,3 +20,4 @@ C:\Users\Bruno_PC\Documents\GitHub\not-officials\UniversalGankAlerter\bin\Releas
 C:\Users\Bruno_PC\Documents\GitHub\not-officials\UniversalGankAlerter\obj\Debug\UniversalGankAlerter.csprojResolveAssemblyReference.cache
 C:\Users\Bruno_PC\Documents\GitHub\not-officials\UniversalGankAlerter\obj\Debug\TheCheater.exe
 C:\Users\Bruno_PC\Documents\GitHub\not-officials\UniversalGankAlerter\obj\Debug\TheCheater.pdb
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\UniversalGankAlerter\bin\Release\EloBuddy.Sandbox.dll

@@ -13,3 +13,6 @@ C:\Users\bruno\Documents\GitHub\Buddy-dev\Farofakids-Nautilus\bin\Debug\SharpDX.
 C:\Users\Bruno_PC\Documents\GitHub\Buddy-dev\Farofakids-Nautilus\bin\Debug\Farofakids-Nautilus.exe.config
 C:\Users\Bruno_PC\Documents\GitHub\Buddy-dev\Farofakids-Nautilus\obj\Debug\Farofakids-Nautilus.exe
 C:\Users\Bruno_PC\Documents\GitHub\Buddy-dev\Farofakids-Nautilus\obj\Debug\Farofakids-Nautilus.pdb
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\Farofakids-Nautilus\bin\Debug\Farofakids-Nautilus.exe.config
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\Farofakids-Nautilus\obj\Debug\Farofakids-Nautilus.exe
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\Farofakids-Nautilus\obj\Debug\Farofakids-Nautilus.pdb

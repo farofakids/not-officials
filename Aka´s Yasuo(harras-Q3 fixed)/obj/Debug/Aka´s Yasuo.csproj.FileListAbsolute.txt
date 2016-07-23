@@ -1,0 +1,23 @@
+C:\Users\bruno\AppData\Roaming\EloBuddy\Repositories\312AC617\Aka´s Yasuo\bin\Release\GosuMechanics_Yasuo.exe.config
+C:\Users\bruno\AppData\Roaming\EloBuddy\Repositories\312AC617\Aka´s Yasuo\bin\Release\GosuMechanics_Yasuo.exe
+C:\Users\bruno\AppData\Roaming\EloBuddy\Repositories\312AC617\Aka´s Yasuo\bin\Release\GosuMechanics_Yasuo.pdb
+C:\Users\bruno\AppData\Roaming\EloBuddy\Repositories\312AC617\Aka´s Yasuo\bin\Release\EloBuddy.dll
+C:\Users\bruno\AppData\Roaming\EloBuddy\Repositories\312AC617\Aka´s Yasuo\bin\Release\EloBuddy.SDK.dll
+C:\Users\bruno\AppData\Roaming\EloBuddy\Repositories\312AC617\Aka´s Yasuo\bin\Release\SharpDX.dll
+C:\Users\bruno\AppData\Roaming\EloBuddy\Repositories\312AC617\Aka´s Yasuo\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\bruno\AppData\Roaming\EloBuddy\Repositories\312AC617\Aka´s Yasuo\bin\Release\Newtonsoft.Json.dll
+C:\Users\bruno\AppData\Roaming\EloBuddy\Repositories\312AC617\Aka´s Yasuo\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\bruno\AppData\Roaming\EloBuddy\Repositories\312AC617\Aka´s Yasuo\obj\Debug\GosuMechanics_Yasuo.exe
+C:\Users\bruno\AppData\Roaming\EloBuddy\Repositories\312AC617\Aka´s Yasuo\obj\Debug\GosuMechanics_Yasuo.pdb
+C:\Users\bruno\Documents\GitHub\Buddy-dev\Aka´s Yasuo(harras-Q3 fixed)\bin\Release\GosuMechanics_Yasuo.exe.config
+C:\Users\bruno\Documents\GitHub\Buddy-dev\Aka´s Yasuo(harras-Q3 fixed)\obj\Debug\GosuMechanics_Yasuo.exe
+C:\Users\bruno\Documents\GitHub\Buddy-dev\Aka´s Yasuo(harras-Q3 fixed)\obj\Debug\GosuMechanics_Yasuo.pdb
+C:\Users\bruno\Documents\GitHub\Buddy-dev\Aka´s Yasuo(harras-Q3 fixed)\bin\Release\GosuMechanics_Yasuo.exe
+C:\Users\bruno\Documents\GitHub\Buddy-dev\Aka´s Yasuo(harras-Q3 fixed)\bin\Release\GosuMechanics_Yasuo.pdb
+C:\Users\bruno\Documents\GitHub\Buddy-dev\Aka´s Yasuo(harras-Q3 fixed)\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\bruno\Documents\GitHub\Buddy-dev\Aka´s Yasuo(harras-Q3 fixed)\bin\Release\Newtonsoft.Json.dll
+C:\Users\bruno\Documents\GitHub\Buddy-dev\Aka´s Yasuo(harras-Q3 fixed)\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\bruno\Documents\GitHub\Buddy-dev\Aka´s Yasuo(harras-Q3 fixed)\obj\Debug\Aka´s Yasuo.csprojResolveAssemblyReference.cache
+C:\Users\bruno\Documents\GitHub\Buddy-dev\Aka´s Yasuo(harras-Q3 fixed)\bin\Release\EloBuddy.dll
+C:\Users\bruno\Documents\GitHub\Buddy-dev\Aka´s Yasuo(harras-Q3 fixed)\bin\Release\EloBuddy.SDK.dll
+C:\Users\bruno\Documents\GitHub\Buddy-dev\Aka´s Yasuo(harras-Q3 fixed)\bin\Release\SharpDX.dll
