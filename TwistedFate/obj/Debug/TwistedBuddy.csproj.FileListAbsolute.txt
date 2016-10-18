@@ -10,3 +10,15 @@ C:\Users\Bruno\Documents\GitHub\Buddy-dev\TwistedFate\bin\Debug\EloBuddy.Sandbox
 C:\Users\Bruno\Documents\GitHub\Buddy-dev\TwistedFate\obj\Debug\TwistedBuddy.exe
 C:\Users\Bruno\Documents\GitHub\Buddy-dev\TwistedFate\obj\Debug\TwistedBuddy.pdb
 C:\Users\Bruno\Documents\GitHub\Buddy-dev\TwistedFate\obj\Debug\TwistedBuddy.csprojResolveAssemblyReference.cache
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\TwistedFate\bin\Debug\TwistedBuddy.exe.config
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\TwistedFate\bin\Debug\TwistedBuddy.exe
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\TwistedFate\bin\Debug\TwistedBuddy.pdb
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\TwistedFate\bin\Debug\EloBuddy.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\TwistedFate\bin\Debug\EloBuddy.SDK.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\TwistedFate\bin\Debug\SharpDX.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\TwistedFate\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\TwistedFate\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\TwistedFate\obj\Debug\TwistedBuddy.csprojResolveAssemblyReference.cache
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\TwistedFate\obj\Debug\TwistedBuddy.exe
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\TwistedFate\obj\Debug\TwistedBuddy.pdb
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\TwistedFate\bin\Debug\EloBuddy.Sandbox.dll

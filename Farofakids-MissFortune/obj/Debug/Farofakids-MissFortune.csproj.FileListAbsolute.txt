@@ -25,3 +25,4 @@ C:\Users\Bruno_PC\Documents\GitHub\not-officials\Farofakids-MissFortune\bin\Debu
 C:\Users\Bruno_PC\Documents\GitHub\not-officials\Farofakids-MissFortune\obj\Debug\Farofakids-MissFortune.csprojResolveAssemblyReference.cache
 C:\Users\Bruno_PC\Documents\GitHub\not-officials\Farofakids-MissFortune\obj\Debug\Farofakids_MissFortune.Properties.Resources.resources
 C:\Users\Bruno_PC\Documents\GitHub\not-officials\Farofakids-MissFortune\obj\Debug\Farofakids-MissFortune.csproj.GenerateResource.Cache
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\Farofakids-MissFortune\bin\Debug\EloBuddy.Sandbox.dll

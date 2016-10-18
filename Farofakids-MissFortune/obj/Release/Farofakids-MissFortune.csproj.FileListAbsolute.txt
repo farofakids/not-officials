@@ -1,0 +1,13 @@
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\Farofakids-MissFortune\bin\Release\Farofakids-MissFortune.exe.config
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\Farofakids-MissFortune\bin\Release\Farofakids-MissFortune.exe
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\Farofakids-MissFortune\bin\Release\Farofakids-MissFortune.pdb
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\Farofakids-MissFortune\bin\Release\EloBuddy.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\Farofakids-MissFortune\bin\Release\EloBuddy.SDK.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\Farofakids-MissFortune\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\Farofakids-MissFortune\bin\Release\SharpDX.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\Farofakids-MissFortune\bin\Release\Newtonsoft.Json.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\Farofakids-MissFortune\obj\Release\Farofakids-MissFortune.csprojResolveAssemblyReference.cache
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\Farofakids-MissFortune\obj\Release\Farofakids_MissFortune.Properties.Resources.resources
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\Farofakids-MissFortune\obj\Release\Farofakids-MissFortune.csproj.GenerateResource.Cache
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\Farofakids-MissFortune\obj\Release\Farofakids-MissFortune.exe
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\Farofakids-MissFortune\obj\Release\Farofakids-MissFortune.pdb

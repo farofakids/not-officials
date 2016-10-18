@@ -1,0 +1,10 @@
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\FedKatarinaRW(humanizerE)\FedKatarinaRW(humanizerE)\bin\Release\FedKatarinaRW(humanizerE).exe.config
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\FedKatarinaRW(humanizerE)\FedKatarinaRW(humanizerE)\bin\Release\FedKatarinaRW(humanizerE).exe
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\FedKatarinaRW(humanizerE)\FedKatarinaRW(humanizerE)\bin\Release\FedKatarinaRW(humanizerE).pdb
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\FedKatarinaRW(humanizerE)\FedKatarinaRW(humanizerE)\bin\Release\EloBuddy.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\FedKatarinaRW(humanizerE)\FedKatarinaRW(humanizerE)\bin\Release\EloBuddy.SDK.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\FedKatarinaRW(humanizerE)\FedKatarinaRW(humanizerE)\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\FedKatarinaRW(humanizerE)\FedKatarinaRW(humanizerE)\bin\Release\SharpDX.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\FedKatarinaRW(humanizerE)\FedKatarinaRW(humanizerE)\bin\Release\Newtonsoft.Json.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\FedKatarinaRW(humanizerE)\FedKatarinaRW(humanizerE)\obj\Release\FedKatarinaRW(humanizerE).exe
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\FedKatarinaRW(humanizerE)\FedKatarinaRW(humanizerE)\obj\Release\FedKatarinaRW(humanizerE).pdb

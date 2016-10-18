@@ -1,0 +1,12 @@
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\TwistedFate\bin\Release\TwistedBuddy.exe.config
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\TwistedFate\bin\Release\TwistedBuddy.exe
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\TwistedFate\bin\Release\TwistedBuddy.pdb
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\TwistedFate\bin\Release\EloBuddy.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\TwistedFate\bin\Release\EloBuddy.SDK.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\TwistedFate\bin\Release\SharpDX.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\TwistedFate\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\TwistedFate\bin\Release\Newtonsoft.Json.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\TwistedFate\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\TwistedFate\obj\Release\TwistedBuddy.csprojResolveAssemblyReference.cache
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\TwistedFate\obj\Release\TwistedBuddy.exe
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\TwistedFate\obj\Release\TwistedBuddy.pdb

@@ -1,0 +1,12 @@
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\Aka´s Yasuo(harras-Q3 fixed)\bin\Release\GosuMechanics_Yasuo.exe.config
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\Aka´s Yasuo(harras-Q3 fixed)\bin\Release\GosuMechanics_Yasuo.exe
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\Aka´s Yasuo(harras-Q3 fixed)\bin\Release\GosuMechanics_Yasuo.pdb
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\Aka´s Yasuo(harras-Q3 fixed)\bin\Release\EloBuddy.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\Aka´s Yasuo(harras-Q3 fixed)\bin\Release\EloBuddy.SDK.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\Aka´s Yasuo(harras-Q3 fixed)\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\Aka´s Yasuo(harras-Q3 fixed)\bin\Release\SharpDX.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\Aka´s Yasuo(harras-Q3 fixed)\bin\Release\Newtonsoft.Json.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\Aka´s Yasuo(harras-Q3 fixed)\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\Aka´s Yasuo(harras-Q3 fixed)\obj\Release\Aka´s Yasuo.csprojResolveAssemblyReference.cache
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\Aka´s Yasuo(harras-Q3 fixed)\obj\Release\GosuMechanics_Yasuo.exe
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\Aka´s Yasuo(harras-Q3 fixed)\obj\Release\GosuMechanics_Yasuo.pdb

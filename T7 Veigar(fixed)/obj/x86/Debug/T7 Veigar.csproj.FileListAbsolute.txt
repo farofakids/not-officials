@@ -1,0 +1,12 @@
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\T7 Veigar(fixed)\bin\Debug\Veigar.exe.config
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\T7 Veigar(fixed)\bin\Debug\Veigar.exe
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\T7 Veigar(fixed)\bin\Debug\Veigar.pdb
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\T7 Veigar(fixed)\bin\Debug\EloBuddy.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\T7 Veigar(fixed)\bin\Debug\EloBuddy.SDK.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\T7 Veigar(fixed)\bin\Debug\SharpDX.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\T7 Veigar(fixed)\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\T7 Veigar(fixed)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\T7 Veigar(fixed)\obj\x86\Debug\T7 Veigar.csprojResolveAssemblyReference.cache
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\T7 Veigar(fixed)\obj\x86\Debug\Veigar.exe
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\T7 Veigar(fixed)\obj\x86\Debug\Veigar.pdb
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\T7 Veigar(fixed)\bin\Debug\EloBuddy.Sandbox.dll

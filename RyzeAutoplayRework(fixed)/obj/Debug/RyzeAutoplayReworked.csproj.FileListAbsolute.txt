@@ -1,0 +1,12 @@
+C:\Users\Bruno_PC\Desktop\EloBuddy-master\RyzeAutoplayRework\bin\Debug\RyzeAutoplay.exe.config
+C:\Users\Bruno_PC\Desktop\EloBuddy-master\RyzeAutoplayRework\obj\Debug\RyzeAutoplayReworked.csprojResolveAssemblyReference.cache
+C:\Users\Bruno_PC\Desktop\EloBuddy-master\RyzeAutoplayRework\bin\Debug\RyzeAutoplay.exe
+C:\Users\Bruno_PC\Desktop\EloBuddy-master\RyzeAutoplayRework\bin\Debug\RyzeAutoplay.pdb
+C:\Users\Bruno_PC\Desktop\EloBuddy-master\RyzeAutoplayRework\bin\Debug\EloBuddy.dll
+C:\Users\Bruno_PC\Desktop\EloBuddy-master\RyzeAutoplayRework\bin\Debug\EloBuddy.Sandbox.dll
+C:\Users\Bruno_PC\Desktop\EloBuddy-master\RyzeAutoplayRework\bin\Debug\EloBuddy.SDK.dll
+C:\Users\Bruno_PC\Desktop\EloBuddy-master\RyzeAutoplayRework\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Bruno_PC\Desktop\EloBuddy-master\RyzeAutoplayRework\bin\Debug\SharpDX.dll
+C:\Users\Bruno_PC\Desktop\EloBuddy-master\RyzeAutoplayRework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bruno_PC\Desktop\EloBuddy-master\RyzeAutoplayRework\obj\Debug\RyzeAutoplay.exe
+C:\Users\Bruno_PC\Desktop\EloBuddy-master\RyzeAutoplayRework\obj\Debug\RyzeAutoplay.pdb

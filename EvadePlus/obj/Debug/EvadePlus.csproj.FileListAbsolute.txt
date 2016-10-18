@@ -1,0 +1,11 @@
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\EvadePlus\bin\Debug\EvadePlus.exe.config
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\EvadePlus\obj\Debug\EvadePlus.csprojResolveAssemblyReference.cache
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\EvadePlus\bin\Debug\EvadePlus.exe
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\EvadePlus\bin\Debug\EvadePlus.pdb
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\EvadePlus\bin\Debug\EloBuddy.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\EvadePlus\bin\Debug\EloBuddy.SDK.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\EvadePlus\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\EvadePlus\bin\Debug\SharpDX.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\EvadePlus\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\EvadePlus\obj\Debug\EvadePlus.exe
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\EvadePlus\obj\Debug\EvadePlus.pdb

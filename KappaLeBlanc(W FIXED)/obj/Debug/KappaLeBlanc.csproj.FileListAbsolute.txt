@@ -22,3 +22,6 @@ C:\Users\Bruno\Documents\GitHub\Buddy-dev\KappaLeBlanc(W FIXED)\bin\Debug\SharpD
 C:\Users\Bruno\Documents\GitHub\Buddy-dev\KappaLeBlanc(W FIXED)\bin\Debug\SharpDX.dll
 C:\Users\Bruno\Documents\GitHub\Buddy-dev\KappaLeBlanc(W FIXED)\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Bruno\Documents\GitHub\Buddy-dev\KappaLeBlanc(W FIXED)\obj\Debug\KappaLeBlanc.csprojResolveAssemblyReference.cache
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\KappaLeBlanc(W FIXED)\bin\Debug\KappaLeBlanc.exe.config
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\KappaLeBlanc(W FIXED)\obj\Debug\KappaLeBlanc.exe
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\KappaLeBlanc(W FIXED)\obj\Debug\KappaLeBlanc.pdb

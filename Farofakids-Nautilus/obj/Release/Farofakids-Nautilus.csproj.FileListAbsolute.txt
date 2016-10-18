@@ -1,0 +1,10 @@
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\Farofakids-Nautilus\bin\Release\Farofakids-Nautilus.exe.config
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\Farofakids-Nautilus\bin\Release\Farofakids-Nautilus.exe
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\Farofakids-Nautilus\bin\Release\Farofakids-Nautilus.pdb
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\Farofakids-Nautilus\bin\Release\EloBuddy.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\Farofakids-Nautilus\bin\Release\EloBuddy.SDK.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\Farofakids-Nautilus\bin\Release\SharpDX.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\Farofakids-Nautilus\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\Farofakids-Nautilus\bin\Release\Newtonsoft.Json.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\Farofakids-Nautilus\obj\Release\Farofakids-Nautilus.exe
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\Farofakids-Nautilus\obj\Release\Farofakids-Nautilus.pdb

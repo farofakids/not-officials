@@ -1,0 +1,12 @@
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\KappaLeBlanc(W FIXED)\bin\Release\KappaLeBlanc.exe.config
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\KappaLeBlanc(W FIXED)\bin\Release\KappaLeBlanc.exe
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\KappaLeBlanc(W FIXED)\bin\Release\KappaLeBlanc.pdb
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\KappaLeBlanc(W FIXED)\bin\Release\EloBuddy.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\KappaLeBlanc(W FIXED)\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\KappaLeBlanc(W FIXED)\bin\Release\EloBuddy.SDK.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\KappaLeBlanc(W FIXED)\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\KappaLeBlanc(W FIXED)\bin\Release\SharpDX.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\KappaLeBlanc(W FIXED)\bin\Release\Newtonsoft.Json.dll
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\KappaLeBlanc(W FIXED)\obj\Release\KappaLeBlanc.csprojResolveAssemblyReference.cache
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\KappaLeBlanc(W FIXED)\obj\Release\KappaLeBlanc.exe
+C:\Users\Bruno_PC\Documents\GitHub\not-officials\KappaLeBlanc(W FIXED)\obj\Release\KappaLeBlanc.pdb
